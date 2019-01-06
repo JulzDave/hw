@@ -1,0 +1,25 @@
+  { 
+  "deals": [
+        {
+          "id":1,
+          "to": "London",
+          "endsIn": 5,
+          "image": "https://media.gettyimages.com/photos/houses-of-parliament-at-night-westminster-london-uk-picture-id508151164"
+          ,"numOfBuyers":0
+        },
+        {
+          "id":2,
+          "to": "Paris",
+          "endsIn": 5,
+          "image": "https://d39gusjpdm7p1o.cloudfront.net/data/layout_grouping/static_page_step/20784/a330628091ede7eb1548d6cda58e0357.jpg?ver=1477297804"
+          ,"numOfBuyers":0
+        },
+        {
+          "id":3,
+          "to": "Barcelona",
+          "endsIn": 5,
+          "image": "https://images.lucasfox.com/location/4x3_960w/836D68DCBD.jpg"
+          ,"numOfBuyers":0
+        }
+      ]
+}
